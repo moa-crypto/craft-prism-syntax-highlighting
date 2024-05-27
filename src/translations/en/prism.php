@@ -1,9 +1,25 @@
 <?php
 
 return [
+  '/path/to/css/folder' => '/path/to/css/folder',
+  'Choose a default syntax to highlight text with.' => 'Choose a default syntax to highlight text with.',
+  'Choose an editor theme.' => 'Choose an editor theme.',
+  'Choose a syntax to highlight text with.' => 'Choose a syntax to highlight text with.',
+  'Choose whether line numbers are displayed or not.' => 'Choose whether line numbers are displayed or not.',
   'Configure the default syntax highlighting options' => 'Configure the default syntax highlighting options',
   'Custom Settings' => 'Custom Settings',
   'General Settings' => 'General Settings',
+  'Height' => 'Height',
+  'Line Numbers' => 'Line Numbers',
+  'Prism' => 'Prism',
   'Prism Syntax Highlighting' => 'Prism Syntax Highlighting',
   'Set a directory path for your custom CSS. You‘ll need to edit the plugin config to set which custom themes are selectable.' => 'Set a directory path for your custom CSS. You‘ll need to edit the plugin config to set which custom themes are selectable.',
+  'Set the default number of rows the editor will be displayed at.' => 'Set the default number of rows the editor will be displayed at.',
+  'Set the number of rows the editor will be displayed at.' => 'Set the number of rows the editor will be displayed at.',
+  'Set the tab width. This uses the experimental CSS property `tab-size`.' => 'Set the tab width. This uses the experimental CSS property `tab-size`.',
+  'Syntax' => 'Syntax',
+  'Tab Width' => 'Tab Width',
+  'Theme' => 'Theme',
+  'Theme Directory' => 'Theme Directory',
+  'The path to the theme directory where your custom CSS files are located.' => 'The path to the theme directory where your custom CSS files are located.',
 ];
